@@ -1,0 +1,9 @@
+type = theme
+name = Seventy
+description = A sub-theme of Seven, the default administration theme for Backdrop CMS.
+backdrop = 1.x
+base theme = seven
+screenshot = screenshot.png
+
+; Add theme CSS files
+stylesheets[all][] = css/skin-seventy.css

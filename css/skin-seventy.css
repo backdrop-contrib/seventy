@@ -1,0 +1,19 @@
+/**
+ * @file
+ * Colors and appearance styles.
+ *
+ * Override styles of Seven, and/or add custom styles.
+ */
+
+.node-form .form-item-title,
+.node-form .field-type-image,
+.node-form .field-type-text-with-summary {
+  margin-bottom: 2em;
+}
+
+.field-type-text-with-summary .link-edit-summary {
+  font-weight: normal;
+}
+
+.vertical-tabs {
+  margin: 2em 0;
