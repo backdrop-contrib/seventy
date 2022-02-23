@@ -46,6 +46,8 @@ Example: Add some margin for a content form field.
 }
 ```
 
+More examples can be [viewed and edited in the Wiki](https://github.com/backdrop-contrib/seventy/wiki).
+
 Advanced usage
 --------------
 
